@@ -16,7 +16,7 @@ This project is a comprehensive **Sales Performance Dashboard** developed for **
 * **DAX:** Implemented custom measures for accurate financial and time-intelligence calculations.
 
 ## 📈 Dashboard Preview
-![Dashboard Screenshot](link-to-your-image.jpg)
+![Dashboard Screenshot](image.jpg)
 
 ## 💡 Business Impact
 By using this dashboard, Gadood Shop can:
